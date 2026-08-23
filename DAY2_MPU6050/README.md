@@ -6,7 +6,8 @@
 ---
 
 ## 1. 오늘 만든 것
-
+<img src="images/MPU6050.jpg" width="400">
+<img src="images/sensor_result.png" width="400">
 센서 → MCU → 출력
 
 ```
