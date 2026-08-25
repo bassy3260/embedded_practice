@@ -9,6 +9,7 @@
 |---|---|---|---|---|
 | 1 | 2026-08-20 | ESP32 첫 설정 & Blink | PlatformIO, CP2102 드라이버, USB/UART/COM 포트, GPIO 입출력 | [DAY1_esp32_blink](./DAY1_esp32_blink/Readme.md) |
 | 2 | 2026-08-23 | MPU-6050 (6축 IMU) 센서값 읽기 | I2C, Wire 라이브러리, 레지스터/raw 데이터, 가속도·자이로 단위 변환 | [DAY2_MPU6050](./DAY2_MPU6050/README.md) |
+| 3 | 2026-08-25 | IMU 자세 3D 대시보드 | 상보필터(roll/pitch), 시리얼→웹소켓 브리지, Three.js 3D 시각화 | [DAY3_imu_dashboard](./DAY3_imu_dashboard/README.md) |
 
 ## 폴더 구조 규칙
 
