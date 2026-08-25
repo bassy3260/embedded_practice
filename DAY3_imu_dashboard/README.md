@@ -7,10 +7,9 @@
 ---
 
 ## 1. 전체 구조
-
-```
 <img src="images/web_dashboard.gif" width="400">
 
+```
 [MPU-6050] --I2C--> [ESP32]              ESP32가 상보필터로 roll/pitch/yaw 계산
                         |
                         | USB 시리얼 (roll,pitch,yaw\n)
